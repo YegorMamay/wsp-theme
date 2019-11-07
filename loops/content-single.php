@@ -21,7 +21,7 @@
             */ ?>
         </header>
         <section>
-            <?php the_post_thumbnail('full'); ?>
+            <!--<?php the_post_thumbnail('full'); ?>-->
             <?php the_content() ?>
             <?php wp_link_pages(); ?>
         </section>

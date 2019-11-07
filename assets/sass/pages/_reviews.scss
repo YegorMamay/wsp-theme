@@ -15,16 +15,16 @@ $review-social-hover-color: #fff !default;
 $review-social-hover-background: #2c3e50 !default;
 
 $review-arrow-size: 32px !default;
-$review-arrow-color: #333 !default;
+$review-arrow-color: rgba(51, 51, 51, 0) !default;
 $review-arrow-font-size: 24px !default;
 $review-arrow-font-weight: bold !default;
 $review-arrow-background: transparent !default;
-$review-arrow-border-width: 1px !default;
+$review-arrow-border-width: 0px !default;
 $review-arrow-border-color: #333 !default;
 $review-arrow-radius: 50% !default;
 $review-arrow-hover-color: #fff !default;
-$review-arrow-hover-border-color: #2c3e50 !default;
-$review-arrow-hover-background: #2c3e50 !default;
+$review-arrow-hover-border-color: rgba(44, 62, 80, 0) !default;
+$review-arrow-hover-background: rgba(44, 62, 80, 0) !default;
 $review-prev: '\00ab'; // &laquo;
 $review-next: '\00bb'; // &raquo;
 
